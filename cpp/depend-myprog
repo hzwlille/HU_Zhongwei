@@ -1,0 +1,5 @@
+Multimedia.o: Multimedia.cpp Multimedia.h
+main.o: main.cpp Multimedia.h Administrator.h Film.h Video.h Photo.h \
+ Group.h TCPServer.h Socket.h
+Socket.o: Socket.cpp Socket.h
+TCPServer.o: TCPServer.cpp TCPServer.h Socket.h

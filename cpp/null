@@ -1,0 +1,52 @@
+Type_de_objet: 
+film
+Nom_de_multimedia: FilmGo$$$$
+Pathname: /new_project/
+Durée_totale: 10
+Nombre_de_chapitres: 3
+Chapitre:_1_Durée: 203
+Chapitre:_2_Durée: 42343
+Chapitre:_3_Durée: 10960
+$$FIN_OF_THIS_OBJECT$$
+
+Type_de_objet: 
+film
+Nom_de_multimedia: FilmX
+Pathname: /new_project/
+Durée_totale: 10
+Nombre_de_chapitres: 3
+Chapitre:_1_Durée: 20
+Chapitre:_2_Durée: 45
+Chapitre:_3_Durée: 2178658224
+$$FIN_OF_THIS_OBJECT$$
+
+Type_de_objet: 
+video
+Nom_de_multimedia: Good video
+Pathname: /new_project/
+Durée_totale: 10
+$$FIN_OF_THIS_OBJECT$$
+
+Type_de_objet: 
+photo
+Nom_de_multimedia: PhotoGood$$$
+Pathname: /new_project/
+Latitude: 2323
+Longitude 10089
+$$FIN_OF_THIS_OBJECT$$
+
+Type_de_objet: 
+video
+Nom_de_multimedia: VideoGood$$$
+Pathname: /new_project/
+Durée_totale: 10
+$$FIN_OF_THIS_OBJECT$$
+
+Type_de_objet: 
+photo
+Nom_de_multimedia: goodPhoto
+Pathname: /new_project/
+Latitude: 100
+Longitude 100
+$$FIN_OF_THIS_OBJECT$$
+
